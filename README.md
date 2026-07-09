@@ -84,7 +84,7 @@ DemoShop_Cucumber
 ### Project Structure
 
 ### Pages Package Layout
-```
+
 The framework structure isolates UI interactions through the following Page Object Model (POM) classes:
 * AccountPage.java — Manages user profiles, addresses, and order history.
 * CartPage.java — Handles quantities, coupon codes, and transitions to checkout.
@@ -105,7 +105,7 @@ The framework structure isolates UI interactions through the following Page Obje
 * ReturnRequestPage.java — Automates product returns.
 * SearchResultsPage.java — Validates search text queries against returned items.
 * WishlistPage.java — Handles favorite items and moving them to the shopping cart.
-```
+
 
 
 ## Feature Coverage
